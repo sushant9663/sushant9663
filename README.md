@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sushant Kumar 👋</h1>
+<h1 align="center"> Sushant Kumar 👋</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Biomedical+Engineer+%7C+AI+%2B+Computer+Vision;QA+Engineer+at+IRDE-DRDO;Building+MedTech+%2B+AI+Solutions" alt="Typing SVG" />
