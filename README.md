@@ -7,7 +7,6 @@
 ---
 
 ### 💫 About Me:
-
 AI/ML Engineer specializing in Computer Vision, currently working at DRDO as a QA Engineer in the AI Department, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
 My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in medical imaging. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
