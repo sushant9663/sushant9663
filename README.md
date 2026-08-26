@@ -7,16 +7,16 @@
 ---
 
 ### 💫 About Me:
-Biomedical Engineering graduate (2021–2025) currently working as a **QA Engineer – AI Department at IRDE-DRDO, Dehradun**, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
-My focus lies at the intersection of **AI, medical imaging, and hardware** — building systems that detect, diagnose, and validate. I've worked on real-time cancer cell detection pipelines on edge devices, and I bring hands-on experience calibrating and testing medical equipment like ECGs, ventilators, and defibrillators.
+AI/ML Engineer specializing in Computer Vision, currently working at DRDO as a QA Engineer in the AI Department, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
-- 🔬 Building AI-powered computer vision pipelines for real-time detection systems
-- 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
-- 🩺 Background in medical device QA — calibration, fault diagnosis, and validation
-- 📍 Based in Dehradun, Uttarakhand, India
-- 🎯 Open to opportunities in **AI/ML, Computer Vision, and MedTech QA/R&D**
+My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in medical imaging. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
 
+🔬 Building AI-powered computer vision pipelines for real-time detection systems
+🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
+💻 Strong foundation in Python, deep learning, and model deployment
+📍 Based in Dehradun, Uttarakhand, India
+🎯 Open to opportunities in AI/ML and Computer Vision
 ---
 
 ### 🌐 Socials:
