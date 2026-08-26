@@ -12,19 +12,18 @@ AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO*
 My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in **medical imaging**. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
 
 - 🔬 Building AI-powered computer vision pipelines for real-time detection systems
-
 - 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
-
 - 💻 Strong foundation in Python, deep learning, and model deployment
-
 - 📍 Based in Dehradun, Uttarakhand, India
-
 - 🎯 Open to opportunities in **AI/ML and Computer Vision**
 
 ---
 
 ### 🌐 Socials:
 <p align="left">
+<a href="https://www.instagram.com/sushantk_00" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/sushant-kumar-287901246/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
