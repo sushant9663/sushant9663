@@ -1,4 +1,4 @@
-<h1 align="center"> Sushant Kumar </h1>
+<h1 align="center">Hi there, I'm Sushant Kumar 👋</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Biomedical+Engineer+%7C+AI+%2B+Computer+Vision;QA+Engineer+at+IRDE-DRDO;Building+MedTech+%2B+AI+Solutions" alt="Typing SVG" />
@@ -7,15 +7,20 @@
 ---
 
 ### 💫 About Me:
-AI/ML Engineer specializing in Computer Vision, currently working at DRDO as a QA Engineer in the AI Department, contributing to AI-driven computer vision and automated detection projects for defence applications.
+AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO** as a QA Engineer in the AI Department, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
-My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in medical imaging. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
+My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in **medical imaging**. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
 
-🔬 Building AI-powered computer vision pipelines for real-time detection systems
-🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
-💻 Strong foundation in Python, deep learning, and model deployment
-📍 Based in Dehradun, Uttarakhand, India
-🎯 Open to opportunities in AI/ML and Computer Vision
+- 🔬 Building AI-powered computer vision pipelines for real-time detection systems
+
+- 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
+
+- 💻 Strong foundation in Python, deep learning, and model deployment
+
+- 📍 Based in Dehradun, Uttarakhand, India
+
+- 🎯 Open to opportunities in **AI/ML and Computer Vision**
+
 ---
 
 ### 🌐 Socials:
