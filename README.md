@@ -4,12 +4,13 @@
 
 ---
 
-### 💫 About Me:
+## 💫 About Me:
 AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO** as a QA Engineer in the AI Department, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
 My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in **medical imaging**. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
 
 - 🔬 Building AI-powered computer vision pipelines for real-time detection systems
+- ⚙️ Experience training deep learning models in Python and optimizing them for deployment via ONNX, including cross-platform inference (Python & C++) with performance benchmarking
 - 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
 - 💻 Strong foundation in Python, deep learning, and model deployment
 - 📍 Based in Dehradun, Uttarakhand, India
@@ -36,8 +37,60 @@ My focus lies in building intelligent systems that detect, diagnose, and validat
 ---
 
 ### 💻 Tech Stack:
+
+**Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,opencv,numpy,pandas,nvidia,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+**AI / ML Frameworks**
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+**Computer Vision**
+<p align="left">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object_Detection-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image_Classification-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image_Processing-6A5ACD?style=for-the-badge"/>
+</p>
+
+**Model Deployment & Optimization**
+<p align="left">
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Optimization-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B_Inference-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Performance_Benchmarking-2ECC71?style=for-the-badge"/>
+</p>
+
+**Data & Scientific Computing**
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+**Embedded AI & Hardware**
+<p align="left">
+<img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion_360-F76C21?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
