@@ -13,7 +13,7 @@ My focus lies in building intelligent systems that detect, diagnose, and validat
 - ⚙️ Experience training deep learning models in Python and optimizing them for deployment via ONNX, including cross-platform inference (Python & C++) with performance benchmarking
 - 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
 - 💻 Strong foundation in Python, deep learning, and model deployment
-- 📍 Based in Dehradun, Uttarakhand, India
+- 📍 Based in India
 - 🎯 Open to opportunities in **AI/ML and Computer Vision**
 
 ---
