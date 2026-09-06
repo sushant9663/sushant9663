@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./profile-ascii.png" alt="sushant9663 neofetch card" width="850"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-card-light.svg">
+    <img src="./profile-card-dark.svg" alt="sushant9663 profile card" width="850"/>
+  </picture>
 </p>
 
 <p align="center">
