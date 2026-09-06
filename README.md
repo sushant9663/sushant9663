@@ -1,8 +1,14 @@
 <p align="center">
+  <img src="./profile-ascii.png" alt="sushant9663 neofetch card" width="850"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Computer+Vision;Working+at+DRDO;Building+Real-Time+Detection+Systems" alt="Typing SVG" />
 </p>
 
 ---
+
+<img align="right" width="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
 
 ## 💫 About Me:
 AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO** as a QA Engineer, contributing to AI-driven computer vision and automated detection projects for defence applications.
@@ -33,6 +39,91 @@ My focus lies in building intelligent systems that detect, diagnose, and validat
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
+---
+
+## ⚙️ My Favorite Tools and Technologies
+
+> Tools and technologies I work with for AI/ML, computer vision & deployment
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Embedded / Jetson" />
+      <br>Embedded AI
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,6 +192,11 @@ My focus lies in building intelligent systems that detect, diagnose, and validat
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant9663&theme=radical" height="165"/>
 </p>
 
+### 🌱 Contribution Graph
+<p align="left">
+<img src="https://ghchart.rshah.org/sushant9663" alt="sushant9663's contribution graph" />
+</p>
+
 ---
 
 ### 📌 Pinned Work
@@ -122,3 +218,11 @@ Designed an anchoring mechanism for a Transcatheter Mitral Valve Replacement (TM
 - 🌍 Yuvamanthan Model United Nations Delegate (2024)
 - 🧬 International Conference on Neuroscience & Neurological Disorders (2023)
 - 💡 Impact Week Meghalaya Design Thinking Challenge (2023)
+
+---
+
+<p align="center">
+<a href="https://hits.dwyl.com/sushant9663/sushant9663">
+<img src="https://hits.dwyl.com/sushant9663/sushant9663.svg?style=flat-square" alt="Profile views" />
+</a>
+</p>
