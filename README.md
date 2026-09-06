@@ -10,7 +10,7 @@
 
 <img align="right" width="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
 
-## 💫 About Me:
+### 💫 About Me:
 AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO** as a QA Engineer, contributing to AI-driven computer vision and automated detection projects for defence applications.
 
 My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in **medical imaging**. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
@@ -42,88 +42,14 @@ My focus lies in building intelligent systems that detect, diagnose, and validat
 
 ---
 
-## ⚙️ My Favorite Tools and Technologies
+### ⚙️ My Favorite Tools and Technologies
 
 > Tools and technologies I work with for AI/ML, computer vision & deployment
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
-      <br>MATLAB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
-      <br>scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-      <br>LaTeX
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Embedded / Jetson" />
-      <br>Embedded AI
-    </td>
-  </tr>
-</table>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,sklearn,opencv,numpy,pandas,jupyter,anaconda,latex,linux,git,github,vscode,raspberrypi&perline=9" alt="tools" />
+</p>
+
 
 ---
 
