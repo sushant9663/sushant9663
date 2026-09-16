@@ -1,1 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Aditya — profile.sh --live" xmlns:c2pa="http://c2pa.org/manifest"><metadata>c2pa:manifestAAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmMTcxYTg1ZC02ZTYwLTQwODQtOGNhYi1iOThmYjkyZjZiNTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPIckehfh10Y+D61E/OSfH0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYzdkZThmYS03YTRkLTQ4NTQtOGVjMS1mYWJhNGY5OGU4MGJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoqS4jmqbGkdjMOYLIe89jNAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggP7iVGBfS//1/HlvRl+MinRnv38nvej6j4KGnpHyvT7mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGU
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-card-light.svg">
+    <img src="./profile-card-dark.svg" alt="sushant9663 profile card" width="850"/>
+  </picture>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Computer+Vision;Working+at+DRDO;Building+Real-Time+Detection+Systems" alt="Typing SVG" />
+</p>
+
+---
+
+<img align="right" width="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
+
+### 💫 About Me:
+AI/ML Engineer specializing in **Computer Vision**, currently working at **DRDO** as a **Project Engineer**, contributing to AI-driven computer vision and automated detection projects for defense applications.
+
+My focus lies in building intelligent systems that detect, diagnose, and validate — with a particular interest in **medical imaging**. I've worked on real-time cancer cell detection pipelines on edge devices, applying deep learning and image processing techniques to solve real-world problems.
+
+* 🔬 Building AI-powered computer vision pipelines for real-time detection systems
+* ⚙️ Experience training deep learning models in Python and optimizing them for deployment via ONNX, including cross-platform inference (Python & C++) with performance benchmarking
+* 🧠 Deepening expertise in medical image processing (CLAHE, edge detection, segmentation) and embedded AI (Jetson Nano)
+* 💻 Strong foundation in Python, deep learning, and model deployment
+* 📍 India
+* 🎯 Open to opportunities in **AI/ML and Computer Vision**
+
+---
+
+### 🌐 Socials:
+<p align="left">
+<a href="https://www.instagram.com/sushantk_00" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sushant-kumar-287901246/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aditya748188@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/sushant9663" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### ⚙️ My Favorite Tools and Technologies
+
+> Tools and technologies I work with for AI/ML, computer vision & deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,tensorflow,pytorch,sklearn,opencv,numpy,pandas,jupyter,anaconda,latex,linux,git,github,vscode,raspberrypi&perline=9" alt="tools" />
+</p>
+
+
+---
+
+### 💻 Tech Stack:
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+**AI / ML Frameworks**
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+**Computer Vision**
+<p align="left">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object_Detection-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image_Classification-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image_Processing-6A5ACD?style=for-the-badge"/>
+</p>
+
+**Model Deployment & Optimization**
+<p align="left">
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Optimization-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B_Inference-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Performance_Benchmarking-2ECC71?style=for-the-badge"/>
+</p>
+
+**Data & Scientific Computing**
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+**Embedded AI & Hardware**
+<p align="left">
+<img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion_360-F76C21?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sushant9663&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant9663&theme=radical" height="165"/>
+</p>
+
+### 🌱 Contribution Graph
+<p align="left">
+<img src="https://ghchart.rshah.org/sushant9663" alt="sushant9663's contribution graph" />
+</p>
+
+---
+
+### 📌 Pinned Work
+
+**Real-Time Cancer Cell Detection System**
+Built a tumour detection pipeline using thermal and MRI imaging on Jetson Nano, applying CLAHE, Gaussian Blur, and Laplacian Edge Detection to improve tumour boundary visualization.
+
+**Biosensor for BUN & Creatinine Detection**
+Developed a fluorescence-based biosensing approach using quantum dots for rapid biomarker detection.
+
+**Anchoring Mechanism for TMVR Device**
+Designed an anchoring mechanism for a Transcatheter Mitral Valve Replacement (TMVR) device.
+
+---
+
+### 🏆 Achievements & Certifications
+* 🥈 2nd Position — Biocraft Competition, IIT Kharagpur
+* 🛰️ Satellite Communication & Navigation Training — NESAC (2024)
+* 🌍 Yuvamanthan Model United Nations Delegate (2024)
+* 🧬 International Conference on Neuroscience & Neurological Disorders (2023)
+* 💡 Impact Week Meghalaya Design Thinking Challenge (2023)
+
+---
+
+<p align="center">
+<a href="https://hits.dwyl.com/sushant9663/sushant9663">
+<img src="https://hits.dwyl.com/sushant9663/sushant9663.svg?style=flat-square" alt="Profile views" />
+</a>
+</p>
