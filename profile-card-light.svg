@@ -46,7 +46,7 @@
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.12s" fill="freeze"/>
       <text x="500" y="138" font-size="14" font-family="ui-monospace,Menlo,Consolas,monospace">
         <tspan fill="#4F46E5">. Org</tspan><tspan fill="#64748B">...............</tspan>
-        <tspan fill="#0F172A" font-weight="600"> DRDO (QA Engineer)</tspan>
+        <tspan fill="#0F172A" font-weight="600"> DRDO (Project Engineer)</tspan>
       </text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.24s" fill="freeze"/>
