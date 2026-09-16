@@ -90,7 +90,7 @@
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.31s" fill="freeze"/>
       <text x="500" y="370" font-size="14" font-family="ui-monospace,Menlo,Consolas,monospace">
-        <tspan fill="#4F46E5">. Email</tspan><tspan fill="#64748B">.........</tspan>
+        
       </text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.43s" fill="freeze"/>
