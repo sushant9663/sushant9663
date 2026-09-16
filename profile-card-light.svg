@@ -86,7 +86,7 @@
       </text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.11s" fill="freeze"/>
-      <text x="500" y="340" font-size="13" fill="#64748B" font-family="ui-monospace,monospace">- Contact ------------------------------------------</text>
+      <text x="500" y="340" font-size="13" fill="#64748B" font-family="ui-monospace,monospace">- Contact ------------------------------------</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.31s" fill="freeze"/>
       <text x="500" y="370" font-size="14" font-family="ui-monospace,Menlo,Consolas,monospace">
